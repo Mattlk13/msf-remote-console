@@ -17,7 +17,7 @@ This script not only gives you the ability to load modules in the background but
  Host => myDomain.com,
  Port => 55553,
  User => msf,
- Pwd => msf,
+ Pwd => ***,
  SSL => True
 
 [+] Successfully connected
