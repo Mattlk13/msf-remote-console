@@ -1,7 +1,7 @@
 # Description
 A remote msfconsole written in Python 2.7 to connect to the msfrcpd server of metasploit.
-This is the only way to have metasploit modules load permanently as daemon on your server like autopwn2.
-This script not only gives you the ability to load modules in the background but to interact with the msfconsole safely through the world wide web!
+This tool gives you the ability to load modules permanently as daemon on your server like autopwn2.
+Although it gives you the ability to remotely use the msfrpcd server it is recommended to use it locally with a ssh or mosh shell because certificate validation is not enabled.
 
 ### Features
 - Optimized delivery & execution of commands.
